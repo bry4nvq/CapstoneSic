@@ -35,17 +35,11 @@ El proyecto se divide en las siguientes secciones:
 
 1. Ejecuta el script principal para cargar y procesar los datos, y entrenar el modelo:
     ```sh
-    python main.py
+    python codigo_modelo.py
     ```
 
 2. El modelo TF-IDF y el DataFrame procesado se guardarán en archivos `.pkl` para su uso posterior.
 
-## Evaluación del Modelo
-
-1. Ejecuta el script de evaluación para calcular métricas como Precision@K, MRR y MAP:
-    ```sh
-    python evaluate.py
-    ```
 
 ## Contribuciones
 
