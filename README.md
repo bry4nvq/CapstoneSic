@@ -29,24 +29,6 @@ El proyecto se divide en las siguientes secciones:
   - sodapy
   - joblib
 
-## Instalación
-
-1. Clona este repositorio:
-    ```sh
-    git clone https://github.com/tu-repositorio/capstone-project-sic-2023.git
-    cd capstone-project-sic-2023
-    ```
-
-2. Instala las dependencias:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Descarga el modelo de spaCy para español:
-    ```sh
-    python -m spacy download es_core_news_sm
-    ```
-
 ## Uso
 
 ### Entrenamiento del Modelo
